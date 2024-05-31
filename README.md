@@ -1,5 +1,17 @@
-# Internship's Backend
-The company where I completed my internship requested us to redesign a miniature version of their in-house website, vizyonergenc.com, along with a creative feature addition. Using .NET, I developed a backend that includes not only basic functionalities but also additional features.
+# Vizyoner Genc Web Site
+
+This project involves the redevelopment of the Vizyoner Genc website, which is the Defence Industry Academy project carried out by the Presidency of the Republic of Turkey Presidency of Defence Industries.
+
+## About the Project
+
+Vizyoner Genç is a platform that brings students together with defence industry giants. The site aims to benefit students and defence industry companies by providing various advertisements, announcements and events. In the project, it is aimed to rewrite the site by adding various innovations and to market the results.
+
+## Technologies Used
+
+- **Backend:** .NET
+- **Veri Tabanı:** PostgreSQL
+- **Proje Yönetim Metodolojisi:** AGILE
+- **Kimlik Doğrulama:** JSON Web Token (JWT)
 
 # Database Design
 I began by roughly designing a database, with the intention of adding the necessary connections and tables later.

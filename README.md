@@ -4,14 +4,14 @@ This project involves the redevelopment of the Vizyoner Genc website, which is t
 
 ## About the Project
 
-Vizyoner Genç is a platform that brings students together with defence industry giants. The site aims to benefit students and defence industry companies by providing various advertisements, announcements and events. In the project, it is aimed to rewrite the site by adding various innovations and to market the results.
+Vizyoner Genc is a platform that brings students together with defence industry giants. The site aims to benefit students and defence industry companies by providing various advertisements, announcements and events. In the project, it is aimed to rewrite the site by adding various innovations and to market the results.
 
 ## Technologies Used
 
 - **Backend:** .NET
-- **Veri Tabanı:** PostgreSQL
-- **Proje Yönetim Metodolojisi:** AGILE
-- **Kimlik Doğrulama:** JSON Web Token (JWT)
+- **Database:** PostgreSQL
+- **Project Management Methodology:** AGILE
+- **Authentication:** JSON Web Token (JWT)
 
 # Database Design
 I began by roughly designing a database, with the intention of adding the necessary connections and tables later.
